@@ -14,9 +14,9 @@ Passionné(e) par l'informatique, **l'administration des systèmes et réseaux**
 
 ## 🎓 Mon Parcours Académique
 
-* **2024 – 2026 : BTS SIO (Option SISR)** — *Henri Matisse, Cugnaux*
+* **2026 – 2028 : BTS SIO (Option SISR)** — *Henri Matisse, Cugnaux*
   * Administration des systèmes et réseaux, gestion de parc, développement et cybersécurité.
-* **2024 : Baccalauréat Général** — *Clémence Royer, Fonsorbes*
+* **2026 : Baccalauréat Général** — *Clémence Royer, Fonsorbes*
   * Mention Bien
 
 ---
